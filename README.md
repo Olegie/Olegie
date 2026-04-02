@@ -18,19 +18,8 @@
 
 ## About
 
-I build software with structure, clarity, and technical identity.  
+Hello, i build software with structure, clarity, and technical identity.  
 Focused on engineering workflows, modular systems, intelligent tools, and clean product design.
-
----
-
-## Focus
-
-| Area | Direction |
-|---|---|
-| Software | Desktop tools, logic workflows, technical applications |
-| Systems | Architecture, modular design, structured development |
-| Interfaces | Clean UI, usable layouts, product-oriented visuals |
-| AI | Smart workflows, assistant-driven tooling, experimentation |
 
 ---
 
